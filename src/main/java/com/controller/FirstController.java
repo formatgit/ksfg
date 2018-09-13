@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 @RequestMapping("/")
 public class FirstController {
-    //ssls
+    //ssls66
     //ResponseBody 以字符串响应
     @ResponseBody
     @RequestMapping("/hello.do")
